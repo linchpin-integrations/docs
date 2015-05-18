@@ -15,3 +15,5 @@ echo $msg;
 
 
 Testing writing `something` ...
+
+Test commits
